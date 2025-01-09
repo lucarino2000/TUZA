@@ -1,0 +1,2854 @@
+[
+    {
+        "MCC": "0742",
+        "Merchant Type": "Veterinary Services"
+    },
+    {
+        "MCC": "0763",
+        "Merchant Type": "Agricultural Co-operatives"
+    },
+    {
+        "MCC": "0780",
+        "Merchant Type": "Horticultural Services"
+    },
+    {
+        "MCC": "0780",
+        "Merchant Type": "Landscaping Services"
+    },
+    {
+        "MCC": "1520",
+        "Merchant Type": "General Contractors-Residential and Commercial"
+    },
+    {
+        "MCC": "1711",
+        "Merchant Type": "Air Conditioning Contractors Sales and Installation"
+    },
+    {
+        "MCC": "1711",
+        "Merchant Type": "Heating Contractors Sales, Service, Installation"
+    },
+    {
+        "MCC": "1731",
+        "Merchant Type": "Electrical Contractors"
+    },
+    {
+        "MCC": "1740",
+        "Merchant Type": "Insulation Contractors"
+    },
+    {
+        "MCC": "1740",
+        "Merchant Type": "Masonry, Stonework Contractors"
+    },
+    {
+        "MCC": "1740",
+        "Merchant Type": "Plastering Contractors"
+    },
+    {
+        "MCC": "1740",
+        "Merchant Type": "Stonework and Masonry Contractors"
+    },
+    {
+        "MCC": "1740",
+        "Merchant Type": "Tile Settings Contractors"
+    },
+    {
+        "MCC": "1750",
+        "Merchant Type": "Carpentry Contractors"
+    },
+    {
+        "MCC": "1761",
+        "Merchant Type": "Roofing-Contractors"
+    },
+    {
+        "MCC": "1761",
+        "Merchant Type": "Sheet Metal Work-Contractors"
+    },
+    {
+        "MCC": "1761",
+        "Merchant Type": "Siding-Contractors"
+    },
+    {
+        "MCC": "1771",
+        "Merchant Type": "Contractors Concrete Work"
+    },
+    {
+        "MCC": "1799",
+        "Merchant Type": "Contractors Special Trade, Not Elsewhere Classified"
+    },
+    {
+        "MCC": "2741",
+        "Merchant Type": "Miscellaneous Publishing and Printing"
+    },
+    {
+        "MCC": "2791",
+        "Merchant Type": "Typesetting, Plate Making, & Related Services"
+    },
+    {
+        "MCC": "2842",
+        "Merchant Type": "Specialty Cleaning, Polishing, and Sanitation Preparations"
+    },
+    {
+        "MCC": "3000",
+        "Merchant Type": "UNITED AIRLINES"
+    },
+    {
+        "MCC": "3001",
+        "Merchant Type": "AMERICAN AIRLINES"
+    },
+    {
+        "MCC": "3002",
+        "Merchant Type": "PAN AMERICAN"
+    },
+    {
+        "MCC": "3004",
+        "Merchant Type": "TRANS WORLD AIRLINES"
+    },
+    {
+        "MCC": "3006",
+        "Merchant Type": "JAPAN AIRLINES"
+    },
+    {
+        "MCC": "3007",
+        "Merchant Type": "AIR FRANCE"
+    },
+    {
+        "MCC": "3008",
+        "Merchant Type": "LUFTHANSA"
+    },
+    {
+        "MCC": "3009",
+        "Merchant Type": "AIR CANADA"
+    },
+    {
+        "MCC": "3010",
+        "Merchant Type": "KLM (ROYAL DUTCH AIRLINES)"
+    },
+    {
+        "MCC": "3011",
+        "Merchant Type": "AEORFLOT"
+    },
+    {
+        "MCC": "3012",
+        "Merchant Type": "QUANTAS"
+    },
+    {
+        "MCC": "3013",
+        "Merchant Type": "ALITALIA"
+    },
+    {
+        "MCC": "3014",
+        "Merchant Type": "SAUDIA ARABIAN AIRLINES"
+    },
+    {
+        "MCC": "3015",
+        "Merchant Type": "SWISSAIR"
+    },
+    {
+        "MCC": "3016",
+        "Merchant Type": "SAS"
+    },
+    {
+        "MCC": "3017",
+        "Merchant Type": "SOUTH AFRICAN AIRWAYS"
+    },
+    {
+        "MCC": "3018",
+        "Merchant Type": "VARIG (BRAZIL)"
+    },
+    {
+        "MCC": "3020",
+        "Merchant Type": "AIR-INDIA"
+    },
+    {
+        "MCC": "3021",
+        "Merchant Type": "AIR ALGERIE"
+    },
+    {
+        "MCC": "3022",
+        "Merchant Type": "PHILIPPINE AIRLINES"
+    },
+    {
+        "MCC": "3023",
+        "Merchant Type": "MEXICANA"
+    },
+    {
+        "MCC": "3024",
+        "Merchant Type": "PAKISTAN INTERNATIONAL"
+    },
+    {
+        "MCC": "3025",
+        "Merchant Type": "AIR NEW ZEALAND"
+    },
+    {
+        "MCC": "3027",
+        "Merchant Type": "UTA\\/INTERAIR"
+    },
+    {
+        "MCC": "3028",
+        "Merchant Type": "AIR MALTA"
+    },
+    {
+        "MCC": "3029",
+        "Merchant Type": "SABENA"
+    },
+    {
+        "MCC": "3030",
+        "Merchant Type": "AEROLINEAS ARGENTINAS"
+    },
+    {
+        "MCC": "3031",
+        "Merchant Type": "OLYMPIC AIRWAYS"
+    },
+    {
+        "MCC": "3032",
+        "Merchant Type": "ELAL"
+    },
+    {
+        "MCC": "3033",
+        "Merchant Type": "ANSETT AIRLINES"
+    },
+    {
+        "MCC": "3034",
+        "Merchant Type": "AUSTRAINLIAN AIRLINES"
+    },
+    {
+        "MCC": "3035",
+        "Merchant Type": "TAP (PORTUGAL)"
+    },
+    {
+        "MCC": "3036",
+        "Merchant Type": "VASP (BRAZIL)"
+    },
+    {
+        "MCC": "3038",
+        "Merchant Type": "KUWAIT AIRLINES"
+    },
+    {
+        "MCC": "3039",
+        "Merchant Type": "AVIANCA"
+    },
+    {
+        "MCC": "3040",
+        "Merchant Type": "GULF AIR (BAHRAIN)"
+    },
+    {
+        "MCC": "3041",
+        "Merchant Type": "BALKAN-BULGARIAN AIRLINES"
+    },
+    {
+        "MCC": "3042",
+        "Merchant Type": "FINNAIR"
+    },
+    {
+        "MCC": "3043",
+        "Merchant Type": "AER LINGUS"
+    },
+    {
+        "MCC": "3044",
+        "Merchant Type": "AIR LANKA"
+    },
+    {
+        "MCC": "3045",
+        "Merchant Type": "NIGERIA AIRWAYS"
+    },
+    {
+        "MCC": "3046",
+        "Merchant Type": "CRUZEIRO DO SUL (BRAZIJ)"
+    },
+    {
+        "MCC": "3047",
+        "Merchant Type": "THY (TURKEY)"
+    },
+    {
+        "MCC": "3048",
+        "Merchant Type": "ROYAL AIR MAROC"
+    },
+    {
+        "MCC": "3049",
+        "Merchant Type": "TUNIS AIR"
+    },
+    {
+        "MCC": "3050",
+        "Merchant Type": "ICELANDAIR"
+    },
+    {
+        "MCC": "3051",
+        "Merchant Type": "AUSTRIAN AIRLINES"
+    },
+    {
+        "MCC": "3052",
+        "Merchant Type": "LANCHILE"
+    },
+    {
+        "MCC": "3053",
+        "Merchant Type": "AVIACO (SPAIN)"
+    },
+    {
+        "MCC": "3054",
+        "Merchant Type": "LADECO (CHILE)"
+    },
+    {
+        "MCC": "3055",
+        "Merchant Type": "LAB (BOLIVIA)"
+    },
+    {
+        "MCC": "3056",
+        "Merchant Type": "QUEBECAIRE"
+    },
+    {
+        "MCC": "3057",
+        "Merchant Type": "EASTWEST AIRLINES (AUSTRALIA)"
+    },
+    {
+        "MCC": "3058",
+        "Merchant Type": "DELTA"
+    },
+    {
+        "MCC": "3060",
+        "Merchant Type": "NORTHWEST"
+    },
+    {
+        "MCC": "3061",
+        "Merchant Type": "CONTINENTAL"
+    },
+    {
+        "MCC": "3062",
+        "Merchant Type": "WESTERN"
+    },
+    {
+        "MCC": "3063",
+        "Merchant Type": "US AIR"
+    },
+    {
+        "MCC": "3065",
+        "Merchant Type": "AIRINTER"
+    },
+    {
+        "MCC": "3066",
+        "Merchant Type": "SOUTHWEST"
+    },
+    {
+        "MCC": "3071",
+        "Merchant Type": "AIR BRITISH COLUBIA"
+    },
+    {
+        "MCC": "3075",
+        "Merchant Type": "SINGAPORE AIRLINES"
+    },
+    {
+        "MCC": "3077",
+        "Merchant Type": "THAI AIRWAYS"
+    },
+    {
+        "MCC": "3078",
+        "Merchant Type": "CHINA AIRLINES"
+    },
+    {
+        "MCC": "3081",
+        "Merchant Type": "NORDAIR"
+    },
+    {
+        "MCC": "3082",
+        "Merchant Type": "KOREAN AIRLINES"
+    },
+    {
+        "MCC": "3083",
+        "Merchant Type": "AIR AFRIGUE"
+    },
+    {
+        "MCC": "3084",
+        "Merchant Type": "EVA AIRLINES"
+    },
+    {
+        "MCC": "3085",
+        "Merchant Type": "MIDWEST EXPRESS AIRLINES, INC."
+    },
+    {
+        "MCC": "3087",
+        "Merchant Type": "METRO AIRLINES"
+    },
+    {
+        "MCC": "3088",
+        "Merchant Type": "CROATIA AIRLINES"
+    },
+    {
+        "MCC": "3089",
+        "Merchant Type": "TRANSAERO"
+    },
+    {
+        "MCC": "3094",
+        "Merchant Type": "ZAMBIA AIRWAYS"
+    },
+    {
+        "MCC": "3096",
+        "Merchant Type": "AIR ZIMBABWE"
+    },
+    {
+        "MCC": "3099",
+        "Merchant Type": "CATHAY PACIFIC"
+    },
+    {
+        "MCC": "3100",
+        "Merchant Type": "MALAYSIAN AIRLINE SYSTEM"
+    },
+    {
+        "MCC": "3102",
+        "Merchant Type": "IBERIA"
+    },
+    {
+        "MCC": "3103",
+        "Merchant Type": "GARUDA (INDONESIA)"
+    },
+    {
+        "MCC": "3106",
+        "Merchant Type": "BRAATHENS S.A.F.E. (NORWAY)"
+    },
+    {
+        "MCC": "3110",
+        "Merchant Type": "WINGS AIRWAYS"
+    },
+    {
+        "MCC": "3111",
+        "Merchant Type": "BRITISH MIDLAND"
+    },
+    {
+        "MCC": "3112",
+        "Merchant Type": "WINDWARD ISLAND"
+    },
+    {
+        "MCC": "3117",
+        "Merchant Type": "VIASA"
+    },
+    {
+        "MCC": "3118",
+        "Merchant Type": "VALLEY AIRLINES"
+    },
+    {
+        "MCC": "3125",
+        "Merchant Type": "TAN"
+    },
+    {
+        "MCC": "3126",
+        "Merchant Type": "TALAIR"
+    },
+    {
+        "MCC": "3127",
+        "Merchant Type": "TACA INTERNATIONAL"
+    },
+    {
+        "MCC": "3129",
+        "Merchant Type": "SURINAM AIRWAYS"
+    },
+    {
+        "MCC": "3130",
+        "Merchant Type": "SUN WORLD INTERNATIONAL"
+    },
+    {
+        "MCC": "3133",
+        "Merchant Type": "SUNBELT AIRLINES"
+    },
+    {
+        "MCC": "3135",
+        "Merchant Type": "SUDAN AIRWAYS"
+    },
+    {
+        "MCC": "3138",
+        "Merchant Type": "SIMMONS AIRLINES"
+    },
+    {
+        "MCC": "3143",
+        "Merchant Type": "SCENIC AIRLINES"
+    },
+    {
+        "MCC": "3144",
+        "Merchant Type": "VIRGIN ATLANTIC"
+    },
+    {
+        "MCC": "3145",
+        "Merchant Type": "SAN JUAN AIRLINES"
+    },
+    {
+        "MCC": "3146",
+        "Merchant Type": "LUXAIR"
+    },
+    {
+        "MCC": "3151",
+        "Merchant Type": "AIR ZAIRE"
+    },
+    {
+        "MCC": "3154",
+        "Merchant Type": "PRINCEVILLE"
+    },
+    {
+        "MCC": "3159",
+        "Merchant Type": "PBA"
+    },
+    {
+        "MCC": "3161",
+        "Merchant Type": "ALL NIPPON AIRWAYS"
+    },
+    {
+        "MCC": "3164",
+        "Merchant Type": "NORONTAIR"
+    },
+    {
+        "MCC": "3165",
+        "Merchant Type": "NEW YORK HELICOPTER"
+    },
+    {
+        "MCC": "3170",
+        "Merchant Type": "NOUNT COOK"
+    },
+    {
+        "MCC": "3171",
+        "Merchant Type": "CANADIAN AIRLINES INTERNATIONAL"
+    },
+    {
+        "MCC": "3172",
+        "Merchant Type": "NATIONAIR"
+    },
+    {
+        "MCC": "3176",
+        "Merchant Type": "METROFLIGHT AIRLINES"
+    },
+    {
+        "MCC": "3178",
+        "Merchant Type": "MESA AIR"
+    },
+    {
+        "MCC": "3181",
+        "Merchant Type": "MALEV"
+    },
+    {
+        "MCC": "3182",
+        "Merchant Type": "LOT (POLAND)"
+    },
+    {
+        "MCC": "3184",
+        "Merchant Type": "LIAT"
+    },
+    {
+        "MCC": "3185",
+        "Merchant Type": "LAV (VENEZUELA)"
+    },
+    {
+        "MCC": "3186",
+        "Merchant Type": "LAP (PARAGUAY)"
+    },
+    {
+        "MCC": "3187",
+        "Merchant Type": "LACSA (COSTA RICA)"
+    },
+    {
+        "MCC": "3190",
+        "Merchant Type": "JUGOSLAV AIR"
+    },
+    {
+        "MCC": "3191",
+        "Merchant Type": "ISLAND AIRLINES"
+    },
+    {
+        "MCC": "3192",
+        "Merchant Type": "IRAN AIR"
+    },
+    {
+        "MCC": "3193",
+        "Merchant Type": "INDIAN AIRLINES"
+    },
+    {
+        "MCC": "3196",
+        "Merchant Type": "HAWAIIAN AIR"
+    },
+    {
+        "MCC": "3197",
+        "Merchant Type": "HAVASU AIRLINES"
+    },
+    {
+        "MCC": "3200",
+        "Merchant Type": "FUYANA AIRWAYS"
+    },
+    {
+        "MCC": "3204",
+        "Merchant Type": "FREEDOM AIR"
+    },
+    {
+        "MCC": "3212",
+        "Merchant Type": "DOMINICANA"
+    },
+    {
+        "MCC": "3215",
+        "Merchant Type": "DAN AIR SERVICES"
+    },
+    {
+        "MCC": "3216",
+        "Merchant Type": "CUMBERLAND AIRLINES"
+    },
+    {
+        "MCC": "3217",
+        "Merchant Type": "CSA"
+    },
+    {
+        "MCC": "3218",
+        "Merchant Type": "CROWN AIR"
+    },
+    {
+        "MCC": "3219",
+        "Merchant Type": "COPA"
+    },
+    {
+        "MCC": "3220",
+        "Merchant Type": "COMPANIA FAUCETT"
+    },
+    {
+        "MCC": "3221",
+        "Merchant Type": "TRANSPORTES AEROS MILITARES ECCUATORANOS"
+    },
+    {
+        "MCC": "3222",
+        "Merchant Type": "COMMAND AIRWAYS"
+    },
+    {
+        "MCC": "3223",
+        "Merchant Type": "COMAIR"
+    },
+    {
+        "MCC": "3228",
+        "Merchant Type": "CAYMAN AIRWAYS"
+    },
+    {
+        "MCC": "3229",
+        "Merchant Type": "SAETA SOCIAEDAD ECUATORIANOS DE TRANSPORTESAEREOS"
+    },
+    {
+        "MCC": "3231",
+        "Merchant Type": "SASHA SERVICIO AERO DE HONDURAS"
+    },
+    {
+        "MCC": "3233",
+        "Merchant Type": "CAPITOL AIR"
+    },
+    {
+        "MCC": "3234",
+        "Merchant Type": "BWIA"
+    },
+    {
+        "MCC": "3235",
+        "Merchant Type": "BROKWAY AIR"
+    },
+    {
+        "MCC": "3238",
+        "Merchant Type": "BEMIDJI AIRLINES"
+    },
+    {
+        "MCC": "3239",
+        "Merchant Type": "BAR HARBOR AIRLINES"
+    },
+    {
+        "MCC": "3240",
+        "Merchant Type": "BAHAMASAIR"
+    },
+    {
+        "MCC": "3241",
+        "Merchant Type": "AVIATECA (GUATEMALA)"
+    },
+    {
+        "MCC": "3242",
+        "Merchant Type": "AVENSA"
+    },
+    {
+        "MCC": "3243",
+        "Merchant Type": "AUSTRIAN AIR SERVICE"
+    },
+    {
+        "MCC": "3251",
+        "Merchant Type": "ALOHA AIRLINES"
+    },
+    {
+        "MCC": "3252",
+        "Merchant Type": "ALM"
+    },
+    {
+        "MCC": "3253",
+        "Merchant Type": "AMERICA WEST"
+    },
+    {
+        "MCC": "3254",
+        "Merchant Type": "TRUMP AIRLINE"
+    },
+    {
+        "MCC": "3256",
+        "Merchant Type": "ALASKA AIRLINES"
+    },
+    {
+        "MCC": "3259",
+        "Merchant Type": "AMERICAN TRANS AIR"
+    },
+    {
+        "MCC": "3262",
+        "Merchant Type": "RENO AIR, INC."
+    },
+    {
+        "MCC": "3266",
+        "Merchant Type": "AIR SEYCHELLES"
+    },
+    {
+        "MCC": "3267",
+        "Merchant Type": "AIR PANAMA"
+    },
+    {
+        "MCC": "3280",
+        "Merchant Type": "AIR JAMAICA"
+    },
+    {
+        "MCC": "3282",
+        "Merchant Type": "AIR DJIBOUTI"
+    },
+    {
+        "MCC": "3284",
+        "Merchant Type": "AERO VIRGIN ISLANDS"
+    },
+    {
+        "MCC": "3285",
+        "Merchant Type": "AERO PERU"
+    },
+    {
+        "MCC": "3286",
+        "Merchant Type": "AEROLINEAS NICARAGUENSIS"
+    },
+    {
+        "MCC": "3287",
+        "Merchant Type": "AERO COACH AVAIATION"
+    },
+    {
+        "MCC": "3291",
+        "Merchant Type": "ARIANA AFGHAN"
+    },
+    {
+        "MCC": "3292",
+        "Merchant Type": "CYPRUS AIRWAYS"
+    },
+    {
+        "MCC": "3293",
+        "Merchant Type": "ECUATORIANA"
+    },
+    {
+        "MCC": "3294",
+        "Merchant Type": "ETHIOPIAN AIRLINES"
+    },
+    {
+        "MCC": "3295",
+        "Merchant Type": "KENYA AIRLINES"
+    },
+    {
+        "MCC": "3298",
+        "Merchant Type": "AIR MAURITIUS"
+    },
+    {
+        "MCC": "3299",
+        "Merchant Type": "WIDERO\\'S FLYVESELSKAP"
+    },
+    {
+        "MCC": "3351",
+        "Merchant Type": "AFFILIATED AUTO RENTAL"
+    },
+    {
+        "MCC": "3352",
+        "Merchant Type": "AMERICAN INTL RENT-A-CAR"
+    },
+    {
+        "MCC": "3353",
+        "Merchant Type": "BROOKS RENT-A-CAR"
+    },
+    {
+        "MCC": "3354",
+        "Merchant Type": "ACTION AUTO RENTAL"
+    },
+    {
+        "MCC": "3357",
+        "Merchant Type": "HERTZ RENT-A-CAR"
+    },
+    {
+        "MCC": "3359",
+        "Merchant Type": "PAYLESS CAR RENTAL"
+    },
+    {
+        "MCC": "3360",
+        "Merchant Type": "SNAPPY CAR RENTAL"
+    },
+    {
+        "MCC": "3361",
+        "Merchant Type": "AIRWAYS RENT-A-CAR"
+    },
+    {
+        "MCC": "3362",
+        "Merchant Type": "ALTRA AUTO RENTAL"
+    },
+    {
+        "MCC": "3364",
+        "Merchant Type": "AGENCY RENT-A-CAR"
+    },
+    {
+        "MCC": "3366",
+        "Merchant Type": "BUDGET RENT-A-CAR"
+    },
+    {
+        "MCC": "3368",
+        "Merchant Type": "HOLIDAY RENT-A-WRECK"
+    },
+    {
+        "MCC": "3370",
+        "Merchant Type": "RENT-A-WRECK"
+    },
+    {
+        "MCC": "3381",
+        "Merchant Type": "EUROP CAR"
+    },
+    {
+        "MCC": "3385",
+        "Merchant Type": "TROPICAL RENT-A-CAR"
+    },
+    {
+        "MCC": "3386",
+        "Merchant Type": "SHOWCASE RENTAL CARS"
+    },
+    {
+        "MCC": "3387",
+        "Merchant Type": "ALAMO RENT-A-CAR"
+    },
+    {
+        "MCC": "3389",
+        "Merchant Type": "AVIS RENT-A-CAR"
+    },
+    {
+        "MCC": "3390",
+        "Merchant Type": "DOLLAR RENT-A-CAR"
+    },
+    {
+        "MCC": "3391",
+        "Merchant Type": "EUROPE BY CAR"
+    },
+    {
+        "MCC": "3393",
+        "Merchant Type": "NATIONAL CAR RENTAL"
+    },
+    {
+        "MCC": "3394",
+        "Merchant Type": "KEMWELL GROUP RENT-A-CAR"
+    },
+    {
+        "MCC": "3395",
+        "Merchant Type": "THRIFTY RENT-A-CAR"
+    },
+    {
+        "MCC": "3396",
+        "Merchant Type": "TILDEN TENT-A-CAR"
+    },
+    {
+        "MCC": "3398",
+        "Merchant Type": "ECONO-CAR RENT-A-CAR"
+    },
+    {
+        "MCC": "3400",
+        "Merchant Type": "AUTO HOST COST CAR RENTALS"
+    },
+    {
+        "MCC": "3405",
+        "Merchant Type": "ENTERPRISE RENT-A-CAR"
+    },
+    {
+        "MCC": "3409",
+        "Merchant Type": "GENERAL RENT-A-CAR"
+    },
+    {
+        "MCC": "3412",
+        "Merchant Type": "A-1 RENT-A-CAR"
+    },
+    {
+        "MCC": "3414",
+        "Merchant Type": "GODFREY NATL RENT-A-CAR"
+    },
+    {
+        "MCC": "3419",
+        "Merchant Type": "ALPHA RENT-A-CAR"
+    },
+    {
+        "MCC": "3420",
+        "Merchant Type": "ANSA INTL RENT-A-CAR"
+    },
+    {
+        "MCC": "3421",
+        "Merchant Type": "ALLSTAE RENT-A-CAR"
+    },
+    {
+        "MCC": "3423",
+        "Merchant Type": "AVCAR RENT-A-CAR"
+    },
+    {
+        "MCC": "3425",
+        "Merchant Type": "AUTOMATE RENT-A-CAR"
+    },
+    {
+        "MCC": "3427",
+        "Merchant Type": "AVON RENT-A-CAR"
+    },
+    {
+        "MCC": "3428",
+        "Merchant Type": "CAREY RENT-A-CAR"
+    },
+    {
+        "MCC": "3429",
+        "Merchant Type": "INSURANCE RENT-A-CAR"
+    },
+    {
+        "MCC": "3430",
+        "Merchant Type": "MAJOR RENT-A-CAR"
+    },
+    {
+        "MCC": "3431",
+        "Merchant Type": "REPLACEMENT RENT-A-CAR"
+    },
+    {
+        "MCC": "3432",
+        "Merchant Type": "RESERVE RENT-A-CAR"
+    },
+    {
+        "MCC": "3433",
+        "Merchant Type": "UGLY DUCKLING RENT-A-CAR"
+    },
+    {
+        "MCC": "3435",
+        "Merchant Type": "VALUE RENT-A-CAR"
+    },
+    {
+        "MCC": "3436",
+        "Merchant Type": "AUTOHANSA RENT-A-CAR"
+    },
+    {
+        "MCC": "3437",
+        "Merchant Type": "CITE RENT-A-CAR"
+    },
+    {
+        "MCC": "3438",
+        "Merchant Type": "INTERENT RENT-A-CAR"
+    },
+    {
+        "MCC": "3439",
+        "Merchant Type": "MILLEVILLE RENT-A-CAR"
+    },
+    {
+        "MCC": "3440",
+        "Merchant Type": "VIA ROUTE RENT-A-CAR"
+    },
+    {
+        "MCC": "3501",
+        "Merchant Type": "HOLIDAY INN EXPRESS"
+    },
+    {
+        "MCC": "3501",
+        "Merchant Type": "HOLIDAY INNS"
+    },
+    {
+        "MCC": "3502",
+        "Merchant Type": "BEST WESTERN HOTELS"
+    },
+    {
+        "MCC": "3503",
+        "Merchant Type": "SHERATON HOTELS"
+    },
+    {
+        "MCC": "3504",
+        "Merchant Type": "HILTON HOTELS"
+    },
+    {
+        "MCC": "3505",
+        "Merchant Type": "FORTE HOTELS"
+    },
+    {
+        "MCC": "3506",
+        "Merchant Type": "GOLDEN TULIP HOTELS"
+    },
+    {
+        "MCC": "3507",
+        "Merchant Type": "FRIENDSHIP INNS"
+    },
+    {
+        "MCC": "3508",
+        "Merchant Type": "QUALITY INNS"
+    },
+    {
+        "MCC": "3508",
+        "Merchant Type": "QUALITY SUITES"
+    },
+    {
+        "MCC": "3509",
+        "Merchant Type": "MARRIOTT HOTELS"
+    },
+    {
+        "MCC": "3510",
+        "Merchant Type": "DAYS INN"
+    },
+    {
+        "MCC": "3510",
+        "Merchant Type": "DAYSTOP"
+    },
+    {
+        "MCC": "3511",
+        "Merchant Type": "ARABELLA HOTELS"
+    },
+    {
+        "MCC": "3512",
+        "Merchant Type": "INTER-CONTINENTAL HOTELS"
+    },
+    {
+        "MCC": "3513",
+        "Merchant Type": "WESTIN HOTELS"
+    },
+    {
+        "MCC": "3515",
+        "Merchant Type": "RODEWAY INNS"
+    },
+    {
+        "MCC": "3516",
+        "Merchant Type": "LA QUINTA MOTOR INNS"
+    },
+    {
+        "MCC": "3517",
+        "Merchant Type": "AMERICANA HOTELS"
+    },
+    {
+        "MCC": "3518",
+        "Merchant Type": "SOL HOTELS"
+    },
+    {
+        "MCC": "3519",
+        "Merchant Type": "PULLMAN INTERNATIONAL HOTELS"
+    },
+    {
+        "MCC": "3520",
+        "Merchant Type": "MERIDIEN HOTELS"
+    },
+    {
+        "MCC": "3521",
+        "Merchant Type": "CREST HOTELS (see FORTE HOTELS)"
+    },
+    {
+        "MCC": "3523",
+        "Merchant Type": "PENNSULA HOTEL"
+    },
+    {
+        "MCC": "3524",
+        "Merchant Type": "WELCOMGROUP HOTELS"
+    },
+    {
+        "MCC": "3525",
+        "Merchant Type": "DUNFEY HOTELS"
+    },
+    {
+        "MCC": "3626",
+        "Merchant Type": "PRINCE HOTELS"
+    },
+    {
+        "MCC": "3527",
+        "Merchant Type": "DOWNTOWNER-PASSPORT HOTEL"
+    },
+    {
+        "MCC": "3528",
+        "Merchant Type": "REDLION HOTELS"
+    },
+    {
+        "MCC": "3528",
+        "Merchant Type": "RED LION INNS"
+    },
+    {
+        "MCC": "3529",
+        "Merchant Type": "CP HOTELS"
+    },
+    {
+        "MCC": "3530",
+        "Merchant Type": "RENAISSANCE HOTELS"
+    },
+    {
+        "MCC": "3530",
+        "Merchant Type": "STOUFFER HOTELS"
+    },
+    {
+        "MCC": "3531",
+        "Merchant Type": "ASTIR HOTELS"
+    },
+    {
+        "MCC": "3532",
+        "Merchant Type": "SUN ROUTE HOTELS"
+    },
+    {
+        "MCC": "3533",
+        "Merchant Type": "HOTEL IBIS"
+    },
+    {
+        "MCC": "3534",
+        "Merchant Type": "SOUTHERN PACIFIC HOTELS"
+    },
+    {
+        "MCC": "3535",
+        "Merchant Type": "HILTON INTERNATIONAL"
+    },
+    {
+        "MCC": "3536",
+        "Merchant Type": "AMFAC HOTELS"
+    },
+    {
+        "MCC": "3537",
+        "Merchant Type": "ANA HOTEL"
+    },
+    {
+        "MCC": "3538",
+        "Merchant Type": "CONCORDE HOTELS"
+    },
+    {
+        "MCC": "3540",
+        "Merchant Type": "IBEROTEL HOTELS"
+    },
+    {
+        "MCC": "3541",
+        "Merchant Type": "HOTEL OKURA"
+    },
+    {
+        "MCC": "3542",
+        "Merchant Type": "ROYAL HOTELS"
+    },
+    {
+        "MCC": "3543",
+        "Merchant Type": "FOUR SEASONS HOTELS"
+    },
+    {
+        "MCC": "3544",
+        "Merchant Type": "CIGA HOTELS"
+    },
+    {
+        "MCC": "3545",
+        "Merchant Type": "SHANGRI-LA INTERNATIONAL"
+    },
+    {
+        "MCC": "3548",
+        "Merchant Type": "HOTELES MELIA"
+    },
+    {
+        "MCC": "3549",
+        "Merchant Type": "AUBERGE DES GOVERNEURS"
+    },
+    {
+        "MCC": "3550",
+        "Merchant Type": "REGAL 8 INNS"
+    },
+    {
+        "MCC": "3552",
+        "Merchant Type": "COAST HOTELS"
+    },
+    {
+        "MCC": "3553",
+        "Merchant Type": "PARK INNS INTERNATIONAL"
+    },
+    {
+        "MCC": "3562",
+        "Merchant Type": "COMFORT INNS"
+    },
+    {
+        "MCC": "3563",
+        "Merchant Type": "JOURNEY\\'S END MOTLS"
+    },
+    {
+        "MCC": "3565",
+        "Merchant Type": "RELAX INNS"
+    },
+    {
+        "MCC": "3568",
+        "Merchant Type": "LADBROKE HOTELS"
+    },
+    {
+        "MCC": "3570",
+        "Merchant Type": "FORUM HOTELS"
+    },
+    {
+        "MCC": "3572",
+        "Merchant Type": "MIYAKO HOTELS"
+    },
+    {
+        "MCC": "3573",
+        "Merchant Type": "SANDMAN HOTELS"
+    },
+    {
+        "MCC": "3574",
+        "Merchant Type": "VENTURE INNS"
+    },
+    {
+        "MCC": "3575",
+        "Merchant Type": "VAGABOND HOTELS"
+    },
+    {
+        "MCC": "3577",
+        "Merchant Type": "MANDARIN ORIENTAL HOTEL"
+    },
+    {
+        "MCC": "3579",
+        "Merchant Type": "HOTEL MERCURE"
+    },
+    {
+        "MCC": "3581",
+        "Merchant Type": "DELTA HOTEL"
+    },
+    {
+        "MCC": "3583",
+        "Merchant Type": "SAS HOTELS"
+    },
+    {
+        "MCC": "3584",
+        "Merchant Type": "PRINCESS HOTELS INTERNATIONAL"
+    },
+    {
+        "MCC": "3585",
+        "Merchant Type": "HUNGAR HOTELS"
+    },
+    {
+        "MCC": "3586",
+        "Merchant Type": "SOKOS HOTELS"
+    },
+    {
+        "MCC": "3587",
+        "Merchant Type": "DORAL HOTELS"
+    },
+    {
+        "MCC": "3588",
+        "Merchant Type": "HELMSLEY HOTELS"
+    },
+    {
+        "MCC": "3590",
+        "Merchant Type": "FAIRMONT HOTELS"
+    },
+    {
+        "MCC": "3591",
+        "Merchant Type": "SONESTA HOTELS"
+    },
+    {
+        "MCC": "3592",
+        "Merchant Type": "OMNI HOTELS"
+    },
+    {
+        "MCC": "3593",
+        "Merchant Type": "CUNARD HOTELS"
+    },
+    {
+        "MCC": "3595",
+        "Merchant Type": "HOSPITALITYINTERNATIONAL"
+    },
+    {
+        "MCC": "3598",
+        "Merchant Type": "REGENT INTERNATIONAL HOTELS"
+    },
+    {
+        "MCC": "3599",
+        "Merchant Type": "PANNONIA HOTELS"
+    },
+    {
+        "MCC": "3603",
+        "Merchant Type": "NOAH\\'S HOTELS"
+    },
+    {
+        "MCC": "3612",
+        "Merchant Type": "MOVENPICK HOTELS"
+    },
+    {
+        "MCC": "3615",
+        "Merchant Type": "TRAVELODGE"
+    },
+    {
+        "MCC": "3620",
+        "Merchant Type": "TELFORD INTERNATIONAL"
+    },
+    {
+        "MCC": "3623",
+        "Merchant Type": "DORINT HOTELS"
+    },
+    {
+        "MCC": "3625",
+        "Merchant Type": "HOTLE UNIVERSALE"
+    },
+    {
+        "MCC": "3629",
+        "Merchant Type": "DAN HOTELS"
+    },
+    {
+        "MCC": "3633",
+        "Merchant Type": "RANK HOTELS"
+    },
+    {
+        "MCC": "3634",
+        "Merchant Type": "SWISSOTEL"
+    },
+    {
+        "MCC": "3635",
+        "Merchant Type": "RESO HOTELS"
+    },
+    {
+        "MCC": "3636",
+        "Merchant Type": "SAROVA HOTELS"
+    },
+    {
+        "MCC": "3637",
+        "Merchant Type": "RAMADA INNS"
+    },
+    {
+        "MCC": "3637",
+        "Merchant Type": "RAMADA LIMITED"
+    },
+    {
+        "MCC": "3638",
+        "Merchant Type": "HO JO INN"
+    },
+    {
+        "MCC": "3638",
+        "Merchant Type": "HOWARD JOHNSON"
+    },
+    {
+        "MCC": "3639",
+        "Merchant Type": "MOUNT CHARLOTTE THISTLE"
+    },
+    {
+        "MCC": "3640",
+        "Merchant Type": "HYATT HOTEL"
+    },
+    {
+        "MCC": "3641",
+        "Merchant Type": "SOFITEL HOTELS"
+    },
+    {
+        "MCC": "3642",
+        "Merchant Type": "NOVOTEL HOTELS"
+    },
+    {
+        "MCC": "3643",
+        "Merchant Type": "STEIGENBERGER HOTELS"
+    },
+    {
+        "MCC": "3644",
+        "Merchant Type": "ECONO LODGES"
+    },
+    {
+        "MCC": "3645",
+        "Merchant Type": "QUEENS MOAT HOUSES"
+    },
+    {
+        "MCC": "3646",
+        "Merchant Type": "SWALLOW HOTELS"
+    },
+    {
+        "MCC": "3647",
+        "Merchant Type": "HUSA HOTELS"
+    },
+    {
+        "MCC": "3648",
+        "Merchant Type": "DE VERE HOTELS"
+    },
+    {
+        "MCC": "3649",
+        "Merchant Type": "RADISSON HOTELS"
+    },
+    {
+        "MCC": "3650",
+        "Merchant Type": "RED ROOK INNS"
+    },
+    {
+        "MCC": "3651",
+        "Merchant Type": "IMPERIAL LONDON HOTEL"
+    },
+    {
+        "MCC": "3652",
+        "Merchant Type": "EMBASSY HOTELS"
+    },
+    {
+        "MCC": "3653",
+        "Merchant Type": "PENTA HOTELS"
+    },
+    {
+        "MCC": "3654",
+        "Merchant Type": "LOEWS HOTELS"
+    },
+    {
+        "MCC": "3655",
+        "Merchant Type": "SCANDIC HOTELS"
+    },
+    {
+        "MCC": "3656",
+        "Merchant Type": "SARAHOTELS"
+    },
+    {
+        "MCC": "3658",
+        "Merchant Type": "OTANI HOTELS"
+    },
+    {
+        "MCC": "3659",
+        "Merchant Type": "TAJ HOTELS INTERNATIONAL"
+    },
+    {
+        "MCC": "3660",
+        "Merchant Type": "KNIGHTS INNS"
+    },
+    {
+        "MCC": "3661",
+        "Merchant Type": "METROPOLE HOTELS"
+    },
+    {
+        "MCC": "3663",
+        "Merchant Type": "HOTELES EL PRESIDENTS"
+    },
+    {
+        "MCC": "3664",
+        "Merchant Type": "FLAG INN"
+    },
+    {
+        "MCC": "3665",
+        "Merchant Type": "HAMPTON INNS"
+    },
+    {
+        "MCC": "3666",
+        "Merchant Type": "STAKIS HOTELS"
+    },
+    {
+        "MCC": "3668",
+        "Merchant Type": "MARITIM HOTELS"
+    },
+    {
+        "MCC": "3670",
+        "Merchant Type": "ARCARD HOTELS"
+    },
+    {
+        "MCC": "3671",
+        "Merchant Type": "ARCTIA HOTELS"
+    },
+    {
+        "MCC": "3672",
+        "Merchant Type": "CAMPANIEL HOTELS"
+    },
+    {
+        "MCC": "3673",
+        "Merchant Type": "IBUSZ HOTELS"
+    },
+    {
+        "MCC": "3674",
+        "Merchant Type": "RANTASIPI HOTELS"
+    },
+    {
+        "MCC": "3675",
+        "Merchant Type": "INTERHOTEL CEDOK"
+    },
+    {
+        "MCC": "3677",
+        "Merchant Type": "CLIMAT DE FRANCE HOTELS"
+    },
+    {
+        "MCC": "3678",
+        "Merchant Type": "CUMULUS HOTELS"
+    },
+    {
+        "MCC": "3679",
+        "Merchant Type": "DANUBIUS HOTEL"
+    },
+    {
+        "MCC": "3681",
+        "Merchant Type": "ADAMS MARK HOTELS"
+    },
+    {
+        "MCC": "3682",
+        "Merchant Type": "ALLSTAR INNS"
+    },
+    {
+        "MCC": "3684",
+        "Merchant Type": "BUDGET HOST INNS"
+    },
+    {
+        "MCC": "3685",
+        "Merchant Type": "BUDGETEL HOTELS"
+    },
+    {
+        "MCC": "3686",
+        "Merchant Type": "SUISSE CHALETS"
+    },
+    {
+        "MCC": "3687",
+        "Merchant Type": "CLARION HOTELS"
+    },
+    {
+        "MCC": "3688",
+        "Merchant Type": "COMPRI HOTELS"
+    },
+    {
+        "MCC": "3688",
+        "Merchant Type": "COMPRI HOTELS"
+    },
+    {
+        "MCC": "3690",
+        "Merchant Type": "COURTYARD BY MARRIOTT"
+    },
+    {
+        "MCC": "3689",
+        "Merchant Type": "CONSORT HOTELS"
+    },
+    {
+        "MCC": "3691",
+        "Merchant Type": "DILLION INNS"
+    },
+    {
+        "MCC": "3693",
+        "Merchant Type": "DRURY INNS"
+    },
+    {
+        "MCC": "3694",
+        "Merchant Type": "ECONOMY INNS OF AMERICA"
+    },
+    {
+        "MCC": "3695",
+        "Merchant Type": "EMBASSY SUITES"
+    },
+    {
+        "MCC": "3696",
+        "Merchant Type": "EXEL INNS"
+    },
+    {
+        "MCC": "3697",
+        "Merchant Type": "FARFIELD HOTELS"
+    },
+    {
+        "MCC": "3698",
+        "Merchant Type": "HARLEY HOTELS"
+    },
+    {
+        "MCC": "3699",
+        "Merchant Type": "MIDWAY MOTOR LODGE"
+    },
+    {
+        "MCC": "3700",
+        "Merchant Type": "MOTEL 6"
+    },
+    {
+        "MCC": "3701",
+        "Merchant Type": "GUEST QUARTERS (Formally PICKETT SUITE HOTELS)"
+    },
+    {
+        "MCC": "3702",
+        "Merchant Type": "THE REGISTRY HOTELS"
+    },
+    {
+        "MCC": "3703",
+        "Merchant Type": "RESIDENCE INNS"
+    },
+    {
+        "MCC": "3704",
+        "Merchant Type": "ROYCE HOTELS"
+    },
+    {
+        "MCC": "3705",
+        "Merchant Type": "SANDMAN INNS"
+    },
+    {
+        "MCC": "3706",
+        "Merchant Type": "SHILO INNS"
+    },
+    {
+        "MCC": "3707",
+        "Merchant Type": "SHONEY\\'S  INNS"
+    },
+    {
+        "MCC": "3709",
+        "Merchant Type": "SUPER8 MOTELS"
+    },
+    {
+        "MCC": "3710",
+        "Merchant Type": "THE RITZ CARLTON HOTELS"
+    },
+    {
+        "MCC": "3711",
+        "Merchant Type": "FLAG INNS (AUSRALIA)"
+    },
+    {
+        "MCC": "3712",
+        "Merchant Type": "GOLDEN CHAIN HOTEL"
+    },
+    {
+        "MCC": "3713",
+        "Merchant Type": "QUALITY PACIFIC HOTEL"
+    },
+    {
+        "MCC": "3714",
+        "Merchant Type": "FOUR SEASONS HOTEL (AUSTRALIA)"
+    },
+    {
+        "MCC": "3715",
+        "Merchant Type": "FARIFIELD INN"
+    },
+    {
+        "MCC": "3716",
+        "Merchant Type": "CARLTON HOTELS"
+    },
+    {
+        "MCC": "3717",
+        "Merchant Type": "CITY LODGE HOTELS"
+    },
+    {
+        "MCC": "3718",
+        "Merchant Type": "KAROS HOTELS"
+    },
+    {
+        "MCC": "3719",
+        "Merchant Type": "PROTEA HOTELS"
+    },
+    {
+        "MCC": "3720",
+        "Merchant Type": "SOUTHERN SUN HOTELS"
+    },
+    {
+        "MCC": "3721",
+        "Merchant Type": "HILTON CONRAD"
+    },
+    {
+        "MCC": "3722",
+        "Merchant Type": "WYNDHAM HOTEL AND RESORTS"
+    },
+    {
+        "MCC": "3724",
+        "Merchant Type": "INER NOR HOTELS"
+    },
+    {
+        "MCC": "3725",
+        "Merchant Type": "SEAINES PLANATION"
+    },
+    {
+        "MCC": "3726",
+        "Merchant Type": "RIO SUITES"
+    },
+    {
+        "MCC": "3727",
+        "Merchant Type": "BROADMOOR HOTEL"
+    },
+    {
+        "MCC": "3728",
+        "Merchant Type": "BALLY\\'S HOTEL AND CASINO"
+    },
+    {
+        "MCC": "3729",
+        "Merchant Type": "JOHN ASCUAGA\\'S NUGGET"
+    },
+    {
+        "MCC": "3730",
+        "Merchant Type": "MGM GRAND HOTEL"
+    },
+    {
+        "MCC": "3731",
+        "Merchant Type": "HARRAH\\'S HOTELS AND CASINOS"
+    },
+    {
+        "MCC": "3732",
+        "Merchant Type": "OPRYLAND HOTEL"
+    },
+    {
+        "MCC": "3733",
+        "Merchant Type": "BOCA RATON RESORT"
+    },
+    {
+        "MCC": "3734",
+        "Merchant Type": "HARVEY\\/BRISTOL HOTELS"
+    },
+    {
+        "MCC": "3835",
+        "Merchant Type": "*MASTERS ECONOMY INNS"
+    },
+    {
+        "MCC": "3736",
+        "Merchant Type": "COLORADO BELLE\\/EDGEWATER RESORT"
+    },
+    {
+        "MCC": "3737",
+        "Merchant Type": "RIVIERA HOTEL AND CASINO"
+    },
+    {
+        "MCC": "3738",
+        "Merchant Type": "TROPICANA RESORT AND CASINO"
+    },
+    {
+        "MCC": "3739",
+        "Merchant Type": "WOODSIDE HOTELS AND RESORTS"
+    },
+    {
+        "MCC": "3740",
+        "Merchant Type": "TOWNPLACE SUITES"
+    },
+    {
+        "MCC": "3741",
+        "Merchant Type": "MILLENIUM BROADWAY HOTEL"
+    },
+    {
+        "MCC": "3742",
+        "Merchant Type": "CLUB MED"
+    },
+    {
+        "MCC": "3743",
+        "Merchant Type": "BILTMORE HOTEL AND SUITES"
+    },
+    {
+        "MCC": "3744",
+        "Merchant Type": "CAREFREE RESORTS"
+    },
+    {
+        "MCC": "3745",
+        "Merchant Type": "ST. REGIS HOTEL"
+    },
+    {
+        "MCC": "3746",
+        "Merchant Type": "THE ELIOT HOTEL"
+    },
+    {
+        "MCC": "3747",
+        "Merchant Type": "CLUBCORP\\/CLUB RESORTS"
+    },
+    {
+        "MCC": "3748",
+        "Merchant Type": "WELESLEY INNS"
+    },
+    {
+        "MCC": "3749",
+        "Merchant Type": "THE BEVERLY HILLS HOTEL"
+    },
+    {
+        "MCC": "3750",
+        "Merchant Type": "CROWNE PLAZA HOTELS"
+    },
+    {
+        "MCC": "3751",
+        "Merchant Type": "HOMEWOOD SUITES"
+    },
+    {
+        "MCC": "3752",
+        "Merchant Type": "PEABODY HOTELS"
+    },
+    {
+        "MCC": "3754",
+        "Merchant Type": "AMELIA ISLAND PLANATION"
+    },
+    {
+        "MCC": "3755",
+        "Merchant Type": "THE HOMESTEAD"
+    },
+    {
+        "MCC": "3756",
+        "Merchant Type": "SOUTH SEAS RESORTS"
+    },
+    {
+        "MCC": "4111",
+        "Merchant Type": "Local\\/Suburban Commuter Passenger Transportation Railroads,Feries, Local Water Transportation."
+    },
+    {
+        "MCC": "4112",
+        "Merchant Type": "Passenger Railways"
+    },
+    {
+        "MCC": "4119",
+        "Merchant Type": "Ambulance Services"
+    },
+    {
+        "MCC": "4121",
+        "Merchant Type": "Taxicabs and Limousines"
+    },
+    {
+        "MCC": "4131",
+        "Merchant Type": "Bus Lines, Including Charters, Tour Buses"
+    },
+    {
+        "MCC": "4131",
+        "Merchant Type": "Tour Buses"
+    },
+    {
+        "MCC": "4214",
+        "Merchant Type": "Delivery Services Local"
+    },
+    {
+        "MCC": "4214",
+        "Merchant Type": "Freight Carriers"
+    },
+    {
+        "MCC": "4214",
+        "Merchant Type": "MotorFreight Carriers"
+    },
+    {
+        "MCC": "4214",
+        "Merchant Type": "Moving and Storage Companies"
+    },
+    {
+        "MCC": "4214",
+        "Merchant Type": "Trucking Local\\/Long Distance"
+    },
+    {
+        "MCC": "4215",
+        "Merchant Type": "Courier Services Air or Ground"
+    },
+    {
+        "MCC": "4215",
+        "Merchant Type": "Fright Forwarders"
+    },
+    {
+        "MCC": "4225",
+        "Merchant Type": "Storage"
+    },
+    {
+        "MCC": "4225",
+        "Merchant Type": "Warehousing, Public"
+    },
+    {
+        "MCC": "4411",
+        "Merchant Type": "Cruise Lines"
+    },
+    {
+        "MCC": "4411",
+        "Merchant Type": "Steamship Lines"
+    },
+    {
+        "MCC": "4457",
+        "Merchant Type": "Boat Rentals andLeases"
+    },
+    {
+        "MCC": "4468",
+        "Merchant Type": "Marinas, Marine Service, and Supplies"
+    },
+    {
+        "MCC": "4511",
+        "Merchant Type": "Airlines, Air Carriers (not listed elsewhere)"
+    },
+    {
+        "MCC": "4582",
+        "Merchant Type": "Airports, Airport Terminals"
+    },
+    {
+        "MCC": "4582",
+        "Merchant Type": "Flying Fields"
+    },
+    {
+        "MCC": "4722",
+        "Merchant Type": "Travel Agencies and Tour Operations"
+    },
+    {
+        "MCC": "4723",
+        "Merchant Type": "Package Tour Operators (For use in Germany only)"
+    },
+    {
+        "MCC": "4784",
+        "Merchant Type": "Toll and Bridge Fees"
+    },
+    {
+        "MCC": "4789",
+        "Merchant Type": "Transportation Services, Not elsewhere classified)"
+    },
+    {
+        "MCC": "4814",
+        "Merchant Type": "Fax services"
+    },
+    {
+        "MCC": "4814",
+        "Merchant Type": "Telecommunication service including local and long distance calls,credit card calls,calls through use of magnetic-strip readingtelephones and fax services"
+    },
+    {
+        "MCC": "4815",
+        "Merchant Type": "VisaPhone"
+    },
+    {
+        "MCC": "4821",
+        "Merchant Type": "Telegraph services"
+    },
+    {
+        "MCC": "4829",
+        "Merchant Type": "Money Orders Wire Transfer"
+    },
+    {
+        "MCC": "4899",
+        "Merchant Type": "Cable and other pay television (previously Cable Services)"
+    },
+    {
+        "MCC": "4900",
+        "Merchant Type": "Electric, Gas, Sanitary and Water Utilities"
+    },
+    {
+        "MCC": "5013",
+        "Merchant Type": "Motor vehicle supplies and new parts"
+    },
+    {
+        "MCC": "5021",
+        "Merchant Type": "Office and Commercial Furniture"
+    },
+    {
+        "MCC": "5039",
+        "Merchant Type": "Construction Materials, Not Elsewhere Classified"
+    },
+    {
+        "MCC": "5044",
+        "Merchant Type": "Office, Photographic, Photocopy, and Microfilm Equipment"
+    },
+    {
+        "MCC": "5045",
+        "Merchant Type": "Computers, Computer Peripheral Equipment, Software"
+    },
+    {
+        "MCC": "5046",
+        "Merchant Type": "Commercial Equipment, Not Elsewhere Classified"
+    },
+    {
+        "MCC": "5047",
+        "Merchant Type": "Medical, Dental Ophthalmic, Hospital Equipment and Supplies"
+    },
+    {
+        "MCC": "5051",
+        "Merchant Type": "Metal Service Centers and Offices"
+    },
+    {
+        "MCC": "5065",
+        "Merchant Type": "Electrical Parts and Equipment"
+    },
+    {
+        "MCC": "5072",
+        "Merchant Type": "Hardware Equipment and Supplies"
+    },
+    {
+        "MCC": "5074",
+        "Merchant Type": "Plumbingand Heating Equipment and Supplies"
+    },
+    {
+        "MCC": "5085",
+        "Merchant Type": "Industrial Supplies, Not Elsewhere Classified"
+    },
+    {
+        "MCC": "5094",
+        "Merchant Type": "Precious Stones and Metals, Watches and Jewelry"
+    },
+    {
+        "MCC": "5099",
+        "Merchant Type": "Durable Goods, Not Elsewhere Classified"
+    },
+    {
+        "MCC": "5111",
+        "Merchant Type": "Stationery, Office Supplies, Printing, and Writing Paper"
+    },
+    {
+        "MCC": "5122",
+        "Merchant Type": "Drugs, Drug Proprietors, and Druggist\\'s Sundries"
+    },
+    {
+        "MCC": "5131",
+        "Merchant Type": "Piece Goods, Notions, and Other Dry Goods"
+    },
+    {
+        "MCC": "5137",
+        "Merchant Type": "Men\\'s Women\\'s and Children\\'s Uniforms and Commercial Clothing"
+    },
+    {
+        "MCC": "5139",
+        "Merchant Type": "Commercial Footwear"
+    },
+    {
+        "MCC": "5169",
+        "Merchant Type": "Chemicals and Allied Products, Not Elsewhere Classified"
+    },
+    {
+        "MCC": "5172",
+        "Merchant Type": "Petroleum and Petroleum Products"
+    },
+    {
+        "MCC": "5193",
+        "Merchant Type": "Florists\\' Supplies, Nursery Stock and Flowers"
+    },
+    {
+        "MCC": "5198",
+        "Merchant Type": "Paints, Varnishes, and Supplies"
+    },
+    {
+        "MCC": "5199",
+        "Merchant Type": "Non-durable Goods, Not Elsewhere Classified"
+    },
+    {
+        "MCC": "5200",
+        "Merchant Type": "Home Supply Warehouse Stores"
+    },
+    {
+        "MCC": "5211",
+        "Merchant Type": "Lumber and Building Materials Stores"
+    },
+    {
+        "MCC": "5231",
+        "Merchant Type": "Glass Stores"
+    },
+    {
+        "MCC": "5231",
+        "Merchant Type": "Paint and Wallpaper Stores"
+    },
+    {
+        "MCC": "5231",
+        "Merchant Type": "Wallpaper Stores"
+    },
+    {
+        "MCC": "5251",
+        "Merchant Type": "Hardware Stores"
+    },
+    {
+        "MCC": "5261",
+        "Merchant Type": "Nurseries Lawn and Garden Supply Store"
+    },
+    {
+        "MCC": "5271",
+        "Merchant Type": "Mobile Home Dealers"
+    },
+    {
+        "MCC": "5300",
+        "Merchant Type": "Wholesale Clubs"
+    },
+    {
+        "MCC": "5309",
+        "Merchant Type": "Duty Free Store"
+    },
+    {
+        "MCC": "5310",
+        "Merchant Type": "Discount Stores"
+    },
+    {
+        "MCC": "5311",
+        "Merchant Type": "Department Stores"
+    },
+    {
+        "MCC": "5331",
+        "Merchant Type": "Variety Stores"
+    },
+    {
+        "MCC": "5399",
+        "Merchant Type": "Misc. General Merchandise"
+    },
+    {
+        "MCC": "5411",
+        "Merchant Type": "Grocery Stores"
+    },
+    {
+        "MCC": "5411",
+        "Merchant Type": "Supermarkets"
+    },
+    {
+        "MCC": "5422",
+        "Merchant Type": "Freezer and Locker Meat Provisioners"
+    },
+    {
+        "MCC": "5422",
+        "Merchant Type": "Meat Provisioners Freezer and Locker"
+    },
+    {
+        "MCC": "5441",
+        "Merchant Type": "Candy Stores"
+    },
+    {
+        "MCC": "5441",
+        "Merchant Type": "Confectionery Stores"
+    },
+    {
+        "MCC": "5441",
+        "Merchant Type": "Nut Stores"
+    },
+    {
+        "MCC": "5451",
+        "Merchant Type": "Dairy Products Stores"
+    },
+    {
+        "MCC": "5462",
+        "Merchant Type": "Bakeries"
+    },
+    {
+        "MCC": "5499",
+        "Merchant Type": "Misc. Food Stores Convenience Stores and Specialty Markets"
+    },
+    {
+        "MCC": "5511",
+        "Merchant Type": "Car and Truck Dealers (New and Used) Sales, Service, Repairs,Parts, and Leasing"
+    },
+    {
+        "MCC": "5521",
+        "Merchant Type": "Automobile and Truck Dealers (Used Only)"
+    },
+    {
+        "MCC": "5532",
+        "Merchant Type": "Automotive Tire Stores"
+    },
+    {
+        "MCC": "5533",
+        "Merchant Type": "Automotive Parts, Accessories Stores"
+    },
+    {
+        "MCC": "5541",
+        "Merchant Type": "Service Stations (with or without ancillary services)"
+    },
+    {
+        "MCC": "5542",
+        "Merchant Type": "Automated Fuel Dispensers"
+    },
+    {
+        "MCC": "5551",
+        "Merchant Type": "Boat Dealers"
+    },
+    {
+        "MCC": "5561",
+        "Merchant Type": "Recreational andUtility Trailers, Camp Dealers"
+    },
+    {
+        "MCC": "5571",
+        "Merchant Type": "Motorcycle Dealers"
+    },
+    {
+        "MCC": "5592",
+        "Merchant Type": "Motor Home Dealers"
+    },
+    {
+        "MCC": "5598",
+        "Merchant Type": "Snowmobile Dealers"
+    },
+    {
+        "MCC": "5611",
+        "Merchant Type": "Men\\'s and Boy\\'s Clothing and Accessories Stores"
+    },
+    {
+        "MCC": "5621",
+        "Merchant Type": "Women\\'s Ready-to-Wear Stores"
+    },
+    {
+        "MCC": "5631",
+        "Merchant Type": "Women\\'s Accessory and Specialty Shops"
+    },
+    {
+        "MCC": "5641",
+        "Merchant Type": "Children\\'sand Infant\\'s Wear Stores"
+    },
+    {
+        "MCC": "5651",
+        "Merchant Type": "Family Clothing Stores"
+    },
+    {
+        "MCC": "5655",
+        "Merchant Type": "Sports Apparel, Riding  Apparel Stores"
+    },
+    {
+        "MCC": "5661",
+        "Merchant Type": "Shoe Stores"
+    },
+    {
+        "MCC": "5681",
+        "Merchant Type": "Furriers and Fur Shops"
+    },
+    {
+        "MCC": "5691",
+        "Merchant Type": "Men\\'s and Women\\'s Clothing Stores"
+    },
+    {
+        "MCC": "5697",
+        "Merchant Type": "Tailors, Seamstress, Mending, and Alterations"
+    },
+    {
+        "MCC": "5698",
+        "Merchant Type": "Wig and Toupee Stores"
+    },
+    {
+        "MCC": "5699",
+        "Merchant Type": "Miscellaneous Apparel and Accessory Shops"
+    },
+    {
+        "MCC": "5712",
+        "Merchant Type": "Furniture, Home Furnishings, and Equipment Stores, ExceptAppliances"
+    },
+    {
+        "MCC": "5713",
+        "Merchant Type": "Floor Covering Stores"
+    },
+    {
+        "MCC": "5714",
+        "Merchant Type": "Drapery, Window Covering and Upholstery Stores"
+    },
+    {
+        "MCC": "5718",
+        "Merchant Type": "Fireplace, Fireplace Screens, and Accessories Stores"
+    },
+    {
+        "MCC": "5719",
+        "Merchant Type": "Miscellaneous Home Furnishing Specialty Stores"
+    },
+    {
+        "MCC": "5722",
+        "Merchant Type": "Household Appliance Stores"
+    },
+    {
+        "MCC": "5732",
+        "Merchant Type": "Electronic Sales"
+    },
+    {
+        "MCC": "5733",
+        "Merchant Type": "Music Stores, Musical Instruments, Piano Sheet Music"
+    },
+    {
+        "MCC": "5735",
+        "Merchant Type": "Record Shops"
+    },
+    {
+        "MCC": "5811",
+        "Merchant Type": "Caterers"
+    },
+    {
+        "MCC": "5812",
+        "Merchant Type": "Eating places and Restaurants"
+    },
+    {
+        "MCC": "5813",
+        "Merchant Type": "Drinking Places (Alcoholic Beverages), Bars, Taverns, Cocktaillounges, Nightclubs and Discotheques"
+    },
+    {
+        "MCC": "5814",
+        "Merchant Type": "Fast Food Restaurants"
+    },
+    {
+        "MCC": "5912",
+        "Merchant Type": "Drug Stores and Pharmacies"
+    },
+    {
+        "MCC": "5921",
+        "Merchant Type": "Package Stores Beer, Wine, and Liquor"
+    },
+    {
+        "MCC": "5931",
+        "Merchant Type": "Used Merchandise and Secondhand Stores"
+    },
+    {
+        "MCC": "5832",
+        "Merchant Type": "Antique Shops Sales, Repairs, and Restoration Services"
+    },
+    {
+        "MCC": "5933",
+        "Merchant Type": "Pawn Shops and Salvage Yards"
+    },
+    {
+        "MCC": "5935",
+        "Merchant Type": "Wrecking and Salvage Yards"
+    },
+    {
+        "MCC": "5937",
+        "Merchant Type": "Antique Reproductions"
+    },
+    {
+        "MCC": "5940",
+        "Merchant Type": "Bicycle Shops Sales and Service"
+    },
+    {
+        "MCC": "5941",
+        "Merchant Type": "Sporting Goods Stores"
+    },
+    {
+        "MCC": "5942",
+        "Merchant Type": "Book Stores"
+    },
+    {
+        "MCC": "5943",
+        "Merchant Type": "Stationery Stores, Office and School Supply Stores"
+    },
+    {
+        "MCC": "5944",
+        "Merchant Type": "Watch, Clock, Jewelry, and Silverware Stores"
+    },
+    {
+        "MCC": "5945",
+        "Merchant Type": "Hobby, Toy, and Game Shops"
+    },
+    {
+        "MCC": "5946",
+        "Merchant Type": "Camera and Photographic Supply Stores"
+    },
+    {
+        "MCC": "5947",
+        "Merchant Type": "Card Shops, Gift, Novelty, and Souvenir Shops"
+    },
+    {
+        "MCC": "5948",
+        "Merchant Type": "Leather Foods Stores"
+    },
+    {
+        "MCC": "5949",
+        "Merchant Type": "Sewing, Needle, Fabric, and Price Goods Stores"
+    },
+    {
+        "MCC": "5950",
+        "Merchant Type": "Glassware\\/Crystal Stores"
+    },
+    {
+        "MCC": "5960",
+        "Merchant Type": "Direct Marketing-Insurance Service"
+    },
+    {
+        "MCC": "5961",
+        "Merchant Type": "Mail Order Houses Including Catalog Order Stores, Book\\/RecordClubs (No longer permitted for U.S. original presentments)"
+    },
+    {
+        "MCC": "5962",
+        "Merchant Type": "Direct Marketing Travel Related Arrangements Services"
+    },
+    {
+        "MCC": "5963",
+        "Merchant Type": "Door-to-Door Sales"
+    },
+    {
+        "MCC": "5964",
+        "Merchant Type": "Direct Marketing Catalog Merchant"
+    },
+    {
+        "MCC": "5966",
+        "Merchant Type": "Direct Marketing-Outbound Telemarketing Merchant"
+    },
+    {
+        "MCC": "5967",
+        "Merchant Type": "Direct Marketing Inbound Teleservices Merchant"
+    },
+    {
+        "MCC": "5968",
+        "Merchant Type": "Direct Marketing Continuity\\/Subscription Merchant"
+    },
+    {
+        "MCC": "5969",
+        "Merchant Type": "Direct Marketing Not Elsewhere Classified"
+    },
+    {
+        "MCC": "5970",
+        "Merchant Type": "Artist\\'s Supply and Craft Shops"
+    },
+    {
+        "MCC": "5971",
+        "Merchant Type": "Art Dealers and Galleries"
+    },
+    {
+        "MCC": "5972",
+        "Merchant Type": "Stamp and Coin Stores Philatelic and Numismatic Supplies"
+    },
+    {
+        "MCC": "5973",
+        "Merchant Type": "Religious Goods Stores"
+    },
+    {
+        "MCC": "5975",
+        "Merchant Type": "Hearing Aids Sales, Service, and Supply Stores"
+    },
+    {
+        "MCC": "5976",
+        "Merchant Type": "Orthopedic Goods Prosthetic Devices"
+    },
+    {
+        "MCC": "5977",
+        "Merchant Type": "Cosmetic Stores"
+    },
+    {
+        "MCC": "5978",
+        "Merchant Type": "Typewriter Stores Sales, Rental, Service"
+    },
+    {
+        "MCC": "5983",
+        "Merchant Type": "Fuel Fuel Oil, Wood, Coal, Liquefied Petroleum"
+    },
+    {
+        "MCC": "5992",
+        "Merchant Type": "Florists"
+    },
+    {
+        "MCC": "5993",
+        "Merchant Type": "Cigar Stores and Stands"
+    },
+    {
+        "MCC": "5994",
+        "Merchant Type": "News Dealers and Newsstands"
+    },
+    {
+        "MCC": "5995",
+        "Merchant Type": "Pet Shops, Pet Foods, and Supplies Stores"
+    },
+    {
+        "MCC": "5996",
+        "Merchant Type": "Swimming Pools Sales, Service, and Supplies"
+    },
+    {
+        "MCC": "5997",
+        "Merchant Type": "Electric Razor Stores Sales and Service"
+    },
+    {
+        "MCC": "5998",
+        "Merchant Type": "Tent and Awning Shops"
+    },
+    {
+        "MCC": "5999",
+        "Merchant Type": "Miscellaneous and Specialty Retail Stores"
+    },
+    {
+        "MCC": "6010",
+        "Merchant Type": "Financial Institutions Manual Cash Disbursements"
+    },
+    {
+        "MCC": "6011",
+        "Merchant Type": "Financial Institutions Manual Cash Disbursements"
+    },
+    {
+        "MCC": "6012",
+        "Merchant Type": "Financial Institutions Merchandise and Services"
+    },
+    {
+        "MCC": "6051",
+        "Merchant Type": "Non-Financial Institutions Foreign Currency, Money Orders (notwire transfer) and Travelers Cheques"
+    },
+    {
+        "MCC": "6211",
+        "Merchant Type": "Security Brokers\\/Dealers"
+    },
+    {
+        "MCC": "6300",
+        "Merchant Type": "Insurance Sales, Underwriting, and Premiums"
+    },
+    {
+        "MCC": "6381",
+        "Merchant Type": "Insurance Premiums, (no longer valid forfirst presentment work)"
+    },
+    {
+        "MCC": "7011",
+        "Merchant Type": "Lodging Hotels, Motels, Resorts, Central Reservation Services(not elsewhere classified)"
+    },
+    {
+        "MCC": "7012",
+        "Merchant Type": "Timeshares"
+    },
+    {
+        "MCC": "7032",
+        "Merchant Type": "Sporting and Recreational Camps"
+    },
+    {
+        "MCC": "7033",
+        "Merchant Type": "Trailer Parks and Camp Grounds"
+    },
+    {
+        "MCC": "7210",
+        "Merchant Type": "Laundry, Cleaning, and Garment Services"
+    },
+    {
+        "MCC": "7211",
+        "Merchant Type": "Laundry Family and Commercial"
+    },
+    {
+        "MCC": "7216",
+        "Merchant Type": "Dry Cleaners"
+    },
+    {
+        "MCC": "7217",
+        "Merchant Type": "Carpet and Upholstery Cleaning"
+    },
+    {
+        "MCC": "7221",
+        "Merchant Type": "Photographic Studios"
+    },
+    {
+        "MCC": "7230",
+        "Merchant Type": "Barber and Beauty Shops"
+    },
+    {
+        "MCC": "7251",
+        "Merchant Type": "Shop Repair Shops and Shoe Shine Parlors, and Hat CleaningShops"
+    },
+    {
+        "MCC": "7261",
+        "Merchant Type": "Funeral Service and Crematories"
+    },
+    {
+        "MCC": "7273",
+        "Merchant Type": "Dating and Escort Services"
+    },
+    {
+        "MCC": "7276",
+        "Merchant Type": "Tax Preparation Service"
+    },
+    {
+        "MCC": "7277",
+        "Merchant Type": "Counseling Service Debt, Marriage, Personal"
+    },
+    {
+        "MCC": "7278",
+        "Merchant Type": "Buying\\/Shopping Services, Clubs"
+    },
+    {
+        "MCC": "7296",
+        "Merchant Type": "Clothing Rental Costumes, Formal Wear, Uniforms"
+    },
+    {
+        "MCC": "7297",
+        "Merchant Type": "Massage Parlors"
+    },
+    {
+        "MCC": "7298",
+        "Merchant Type": "Health and Beauty Shops"
+    },
+    {
+        "MCC": "7299",
+        "Merchant Type": "Miscellaneous Personal Services (not elsewhere classifies)"
+    },
+    {
+        "MCC": "7311",
+        "Merchant Type": "Advertising Services"
+    },
+    {
+        "MCC": "7321",
+        "Merchant Type": "Consumer Credit Reporting Agencies"
+    },
+    {
+        "MCC": "7332",
+        "Merchant Type": "Blueprinting andPhotocopying Services"
+    },
+    {
+        "MCC": "7333",
+        "Merchant Type": "Commercial Photography, Art and Graphics"
+    },
+    {
+        "MCC": "7338",
+        "Merchant Type": "Quick Copy, Reproduction and Blueprinting Services"
+    },
+    {
+        "MCC": "7339",
+        "Merchant Type": "Stenographic and Secretarial Support Services"
+    },
+    {
+        "MCC": "7342",
+        "Merchant Type": "Disinfecting Services"
+    },
+    {
+        "MCC": "7342",
+        "Merchant Type": "Exterminating and Disinfecting Services"
+    },
+    {
+        "MCC": "7361",
+        "Merchant Type": "Employment Agencies, Temporary Help Services"
+    },
+    {
+        "MCC": "7372",
+        "Merchant Type": "Computer Programming, Integrated Systems Design and DataProcessing Services"
+    },
+    {
+        "MCC": "7375",
+        "Merchant Type": "Information Retrieval Services"
+    },
+    {
+        "MCC": "7379",
+        "Merchant Type": "Computer Maintenance and Repair Services, Not ElsewhereClassified"
+    },
+    {
+        "MCC": "7392",
+        "Merchant Type": "Management, Consulting, and Public Relations Services"
+    },
+    {
+        "MCC": "7393",
+        "Merchant Type": "Protective and Security Services Including Armored Cars andGuard Dogs"
+    },
+    {
+        "MCC": "7394",
+        "Merchant Type": "Equipment Rental and Leasing Services, Tool Rental, FurnitureRental, andAppliance Rental"
+    },
+    {
+        "MCC": "7395",
+        "Merchant Type": "Photofinishing Laboratories, Photo Developing"
+    },
+    {
+        "MCC": "7399",
+        "Merchant Type": "Business Services, Not Elsewhere Classified"
+    },
+    {
+        "MCC": "7512",
+        "Merchant Type": "Car Rental Companies (Not Listed Below)"
+    },
+    {
+        "MCC": "7513",
+        "Merchant Type": "Truck and Utility Trailer Rentals"
+    },
+    {
+        "MCC": "7519",
+        "Merchant Type": "Motor Home and Recreational Vehicle Rentals"
+    },
+    {
+        "MCC": "7523",
+        "Merchant Type": "Automobile Parking Lots and Garages"
+    },
+    {
+        "MCC": "7531",
+        "Merchant Type": "Automotive Body Repair Shops"
+    },
+    {
+        "MCC": "7534",
+        "Merchant Type": "Tire Re-treading and Repair Shops"
+    },
+    {
+        "MCC": "7535",
+        "Merchant Type": "Paint Shops Automotive"
+    },
+    {
+        "MCC": "7538",
+        "Merchant Type": "Automotive Service Shops"
+    },
+    {
+        "MCC": "7542",
+        "Merchant Type": "Car Washes"
+    },
+    {
+        "MCC": "7549",
+        "Merchant Type": "Towing Services"
+    },
+    {
+        "MCC": "7622",
+        "Merchant Type": "Radio Repair Shops"
+    },
+    {
+        "MCC": "7623",
+        "Merchant Type": "Air Conditioning and Refrigeration Repair Shops"
+    },
+    {
+        "MCC": "7629",
+        "Merchant Type": "Electrical And Small Appliance Repair Shops"
+    },
+    {
+        "MCC": "7631",
+        "Merchant Type": "Watch, Clock, and Jewelry Repair"
+    },
+    {
+        "MCC": "7641",
+        "Merchant Type": "Furniture, Furniture Repair, and Furniture Refinishing"
+    },
+    {
+        "MCC": "7692",
+        "Merchant Type": "Welding Repair"
+    },
+    {
+        "MCC": "7699",
+        "Merchant Type": "Repair Shops and Related Services Miscellaneous"
+    },
+    {
+        "MCC": "7829",
+        "Merchant Type": "Motion Pictures and Video Tape Production and Distribution"
+    },
+    {
+        "MCC": "7841",
+        "Merchant Type": "Video Tape Rental Stores"
+    },
+    {
+        "MCC": "7911",
+        "Merchant Type": "Dance Halls, Studios and Schools"
+    },
+    {
+        "MCC": "7922",
+        "Merchant Type": "Theatrical Producers (Except Motion Pictures), Ticket Agencies"
+    },
+    {
+        "MCC": "7929",
+        "Merchant Type": "Bands, Orchestras, and Miscellaneous Entertainers (NotElsewhere Classified)"
+    },
+    {
+        "MCC": "7932",
+        "Merchant Type": "Billiard and Pool Establishments"
+    },
+    {
+        "MCC": "7933",
+        "Merchant Type": "Bowling Alleys"
+    },
+    {
+        "MCC": "7941",
+        "Merchant Type": "Commercial Sports, Athletic Fields, Professional Sport Clubs, andSport Promoters"
+    },
+    {
+        "MCC": "7991",
+        "Merchant Type": "Tourist Attractions and Exhibits"
+    },
+    {
+        "MCC": "7992",
+        "Merchant Type": "Golf Courses Public"
+    },
+    {
+        "MCC": "7993",
+        "Merchant Type": "Video Amusement Game Supplies"
+    },
+    {
+        "MCC": "7994",
+        "Merchant Type": "Video Game Arcades\\/Establishments"
+    },
+    {
+        "MCC": "7995",
+        "Merchant Type": "Betting (including Lottery Tickets, Casino Gaming Chips, Off-trackBetting and Wagers)"
+    },
+    {
+        "MCC": "7996",
+        "Merchant Type": "Amusement Parks, Carnivals, Circuses, Fortune Tellers"
+    },
+    {
+        "MCC": "7997",
+        "Merchant Type": "Membership Clubs (Sports, Recreation, Athletic), Country Clubs,and Private Golf Courses"
+    },
+    {
+        "MCC": "7998",
+        "Merchant Type": "Aquariums, Sea-aquariums, Dolphinariums"
+    },
+    {
+        "MCC": "7999",
+        "Merchant Type": "Recreation Services (Not Elsewhere Classified)"
+    },
+    {
+        "MCC": "8011",
+        "Merchant Type": "Doctors and Physicians (Not Elsewhere Classified)"
+    },
+    {
+        "MCC": "8021",
+        "Merchant Type": "Dentists and Orthodontists"
+    },
+    {
+        "MCC": "8031",
+        "Merchant Type": "Osteopaths"
+    },
+    {
+        "MCC": "8041",
+        "Merchant Type": "Chiropractors"
+    },
+    {
+        "MCC": "8042",
+        "Merchant Type": "Optometrists and Ophthalmologists"
+    },
+    {
+        "MCC": "8043",
+        "Merchant Type": "Opticians, Opticians Goods and Eyeglasses"
+    },
+    {
+        "MCC": "8044",
+        "Merchant Type": "Opticians, Optical Goods, and Eyeglasses (no longer valid for firstpresentments)"
+    },
+    {
+        "MCC": "8049",
+        "Merchant Type": "Podiatrists and Chiropodists"
+    },
+    {
+        "MCC": "8050",
+        "Merchant Type": "Nursing and Personal Care Facilities"
+    },
+    {
+        "MCC": "8062",
+        "Merchant Type": "Hospitals"
+    },
+    {
+        "MCC": "8099",
+        "Merchant Type": "Medical Services and Health Practitioners (Not ElsewhereClassified)"
+    },
+    {
+        "MCC": "8111",
+        "Merchant Type": "Legal Services and Attorneys"
+    },
+    {
+        "MCC": "8211",
+        "Merchant Type": "Elementary and Secondary Schools"
+    },
+    {
+        "MCC": "8220",
+        "Merchant Type": "Colleges, Junior Colleges, Universities, and Professional Schools"
+    },
+    {
+        "MCC": "8241",
+        "Merchant Type": "Correspondence Schools"
+    },
+    {
+        "MCC": "8244",
+        "Merchant Type": "Business and Secretarial Schools"
+    },
+    {
+        "MCC": "8249",
+        "Merchant Type": "Vocational Schools and Trade Schools"
+    },
+    {
+        "MCC": "8299",
+        "Merchant Type": "Schools and Educational Services (Not Elsewhere Classified)"
+    },
+    {
+        "MCC": "8351",
+        "Merchant Type": "Child Care Services"
+    },
+    {
+        "MCC": "8398",
+        "Merchant Type": "Charitable and Social Service Organizations"
+    },
+    {
+        "MCC": "8641",
+        "Merchant Type": "Civic, Fraternal, and Social Associations"
+    },
+    {
+        "MCC": "8651",
+        "Merchant Type": "Political Organizations"
+    },
+    {
+        "MCC": "8661",
+        "Merchant Type": "Religious Organizations"
+    },
+    {
+        "MCC": "8675",
+        "Merchant Type": "Automobile Associations"
+    },
+    {
+        "MCC": "8699",
+        "Merchant Type": "Membership Organizations (Not Elsewhere Classified)"
+    },
+    {
+        "MCC": "8734",
+        "Merchant Type": "Testing Laboratories (non-medical)"
+    },
+    {
+        "MCC": "8911",
+        "Merchant Type": "Architectural Engineering and Surveying Services"
+    },
+    {
+        "MCC": "8931",
+        "Merchant Type": "Accounting, Auditing, and Bookkeeping Services"
+    },
+    {
+        "MCC": "8999",
+        "Merchant Type": "Professional Services (Not Elsewhere Defined)"
+    },
+    {
+        "MCC": "9211",
+        "Merchant Type": "Court Costs, including Alimony and Child Support"
+    },
+    {
+        "MCC": "9222",
+        "Merchant Type": "Fines"
+    },
+    {
+        "MCC": "9223",
+        "Merchant Type": "Bail and Bond Payments"
+    },
+    {
+        "MCC": "9311",
+        "Merchant Type": "Tax Payments"
+    },
+    {
+        "MCC": "9399",
+        "Merchant Type": "Government Services (Not Elsewhere Classified)"
+    },
+    {
+        "MCC": "9402",
+        "Merchant Type": "Postal Services Government Only"
+    },
+    {
+        "MCC": "9405",
+        "Merchant Type": "Intra Government Transactions"
+    },
+    {
+        "MCC": "9700",
+        "Merchant Type": "Automated Referral Service (For Visa Only)"
+    },
+    {
+        "MCC": "9701",
+        "Merchant Type": "Visa Credential Service (For Visa Only)"
+    },
+    {
+        "MCC": "9702",
+        "Merchant Type": "GCAS Emergency Services (For Visa Only)"
+    }
+]
